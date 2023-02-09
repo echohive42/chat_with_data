@@ -4,6 +4,6 @@ faiss-cpu
 streamlit
 streamlit-chat
 unstructured
-python-magic-bin
-python-magic==0.4.14
+python-magic-bin==0.4.14
+python-magic
 Wikipedia-API
