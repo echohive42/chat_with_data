@@ -10,3 +10,5 @@ I have modified the prompt so it returns 3 suggested topics from the context and
 
 
 ## My AI assisted coding videos: https://www.youtube.com/@echohive
+![image](https://user-images.githubusercontent.com/122702381/217783170-c8894faa-82e4-43e3-a621-de8670ba90df.png)
+
