@@ -6,3 +6,4 @@ streamlit-chat
 unstructured
 python-magic-bin
 python-magic
+Wikipedia-API
