@@ -5,5 +5,5 @@ streamlit
 streamlit-chat
 unstructured
 python-magic-bin
-python-magic
+python-magic==0.4.14
 Wikipedia-API
