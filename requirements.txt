@@ -1,6 +1,8 @@
 langchain
 openai
-unstructured
 faiss-cpu
 streamlit
 streamlit-chat
+unstructured
+python-magic-bin
+python-magic
