@@ -135,7 +135,7 @@ if "topics.txt" in os.listdir("."):
 
 
 # print(user_input)
-st.markdown("Click the button below to add a Wikipedia articles to the vectorstore:")
+st.markdown("Click the button below to add Wikipedia articles to the vectorstore:")
 if st.button("REBUILD VECTORSTORE", key="rebuild", help="This will rebuild the vectorstore with the added Wikipedia articles."):
     with st.spinner('New Documents are being vectorized... This may take a while...'):
         embed_doc()
