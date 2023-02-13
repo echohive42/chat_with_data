@@ -8,7 +8,8 @@ You have to Vectorize when you add additonal wikipedia articles.
 I have modified the prompt so it returns 3 suggested topics from the context and the conversation
 
 
-
+## Part 1 of how I built this: https://youtu.be/qUoybv7SadM
+## Part 3 of how I built this: https://youtu.be/I3McnSQ1YnQ
 ## My AI assisted coding videos: https://www.youtube.com/@echohive  
   
     
